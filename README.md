@@ -28,3 +28,14 @@ js/filterdiv.js
 ```javascript
 <div id="webiansGalleryLinks"></div>
 ```
+
+5- Note
+This example was build with "ul" as chapter blocks. If you want to use "div", go to line 38 of file filterdiv.js and change "ul" for "div".
+```javascript
+$(this).next("ul").addClass("hidden");
+```
+```javascript
+$(this).next("ul").addClass("hidden");
+```
+
+[Project page](http://sconvert.github.io/filterdiv)
