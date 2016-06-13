@@ -35,7 +35,7 @@ This example was build with "ul" as chapter blocks. If you want to use "div", go
 $(this).next("ul").addClass("hidden");
 ```
 ```javascript
-$(this).next("ul").addClass("hidden");
+$(this).next("div").addClass("hidden");
 ```
 
 [Project page](http://sconvert.github.io/filterdiv)
