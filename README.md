@@ -39,3 +39,5 @@ $(this).next("ul").addClass("hidden");
 ```
 
 [Project page](http://sconvert.github.io/filterdiv)
+
+[Isotop project](http://isotope.metafizzy.co/)
