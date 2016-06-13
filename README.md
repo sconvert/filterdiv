@@ -1,10 +1,10 @@
 # filterdiv
 An easy method for filtering div in jquery.
 
-##Necessary files :
+###Necessary files :
 js/filterdiv.js
 
-##Usage :
+###Usage :
   
 1- First add script filterdiv.js in your html file. 
 ```javascript
